@@ -40,3 +40,57 @@ h1 {
   padding: 30px 100px;
   font-weight: 100;
 }
+
+.recipe-image {
+  height: auto;
+  width: 500px;
+  margin: 0 auto;
+  padding: 10px 100px 60px 100px;
+}
+
+.recipe-introduction {
+  font-size: 48px;
+  margin: 0 auto;
+  padding: 0px 100px 30px;
+}
+
+.recipe-paragraph {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 0 auto;
+  padding: 0px 100px 30px;
+}
+
+.ingredients-container {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 0 auto;
+  padding: 0px 100px 30px 125px;
+}
+
+.directions {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 0 auto;
+  color: #98c379;
+  padding: 0px 100px 30px;
+}
+
+.directions-container {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 0 auto;
+  padding: 0px 100px 30px 125px;
+}
+
+.ingredients {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 0 auto;
+  color: #98c379;
+  padding: 0px 100px 30px;
+}
+
+.step {
+  padding: 20px 0 20px 0;
+}
