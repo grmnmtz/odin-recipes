@@ -48,6 +48,13 @@ h1 {
   padding: 10px 100px 60px 100px;
 }
 
+.recipe-sarah {
+  height: auto;
+  width: 250px;
+  margin: 0 auto;
+  padding: 10px 100px 60px 100px;
+}
+
 .recipe-introduction {
   font-size: 48px;
   margin: 0 auto;
@@ -73,14 +80,14 @@ h1 {
   font-weight: 400;
   margin: 0 auto;
   color: #98c379;
-  padding: 0px 100px 30px;
+  padding: 0px 80px 10px;
 }
 
 .directions-container {
   font-size: 24px;
   font-weight: 400;
   margin: 0 auto;
-  padding: 0px 100px 30px 125px;
+  padding: 0px 20px 30px 125px;
 }
 
 .ingredients {
