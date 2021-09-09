@@ -55,6 +55,12 @@ h1 {
   padding: 10px 100px 60px 100px;
 }
 
+.chef {
+  height: auto;
+  width: 250px;
+  margin: 0 auto;
+  padding: 0px 100px 10px 50px;
+}
 .recipe-pumpkin {
   height: auto;
   width: 350px;
