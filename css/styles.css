@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #2f343f;
+  font-family: "Lato", sans-serif;
+  color: #eceff4;
+}
+
+.recipe-link,
+.recipe-link:link,
+.recipe-link:visited {
+  text-decoration: none;
+  color: #eceff4;
+  font-size: 24px;
+}
+
+.recipe-link:hover,
+.recipe-link:active {
+  color: #98c379;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: 700;
+  color: #3d84de;
+  margin: 0 auto;
+  padding: 50px 100px;
+}
+
+.recipes-container {
+  margin: 0 auto;
+  padding: 0px 120px;
+}
